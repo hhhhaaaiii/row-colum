@@ -1,0 +1,43 @@
+body{
+    background-color: chartreuse;
+}
+.heading{ width: flex 1;
+    height: 150px;
+    background-color: cornflowerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 50px;}
+.box{ height: 150px;
+    width: 150px;
+    background-color: crimson;
+    padding: 30px;
+    margin: 30px;}
+
+.box2{ height: 150px;
+    width: 150px;
+    background-color: rgb(94, 77, 81);
+    padding: 30px;
+    margin: 30px;}
+
+
+.container{ display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: rgb(59, 52, 42);}
+
+.row{ display: flex;
+        flex-direction: row;
+        background-color: black;}
+.colum{ display: flex;
+    flex-direction: column;}
+
+.bbox{ height: 390px;
+    width: 390px;
+    background-color: rgb(20, 147, 220);
+    padding: 30px;
+    margin: 30px;}
+
+.vbox{ height: 490px;
+    width: 130px;
+    background-color: rgb(20, 147, 220);
+    padding: 30px;
+    margin: 30px;}
