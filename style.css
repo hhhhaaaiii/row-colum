@@ -9,14 +9,12 @@ body{
 .box{ height: 150px;
     width: 150px;
     background-color: crimson;
-    padding: 30px;
-    margin: 30px;}
+    ;}
 
 .box2{ height: 150px;
     width: 150px;
     background-color: rgb(94, 77, 81);
-    padding: 30px;
-    margin: 30px;}
+    ;}
 
 
 .container{ display: flex;
